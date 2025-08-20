@@ -30,7 +30,7 @@ function App() {
         🥳 App successfully hosted. Try creating a new todo.
         <br />
         <a href="https://docs.amplify.aws/react/start/quickstart/#make-frontend-updates">
-          Review next step of this tutorial.
+          TEST AWS AMPLIFY SERVELESS INADVANCE
         </a>
       </div>
     </main>
